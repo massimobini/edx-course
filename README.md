@@ -1,5 +1,5 @@
 # edx-course
 
-## Test Repository
+## Editing the file
 
 Let's write a title and text.
